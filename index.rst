@@ -8,10 +8,12 @@ Welcome to django-otp-webauthn's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-
-   usage/installation
-   usage/quickstart
+   
+   test-content/build-packages
+   test-content/download-new-upstream-version
+   test-content/get-package-source
+   test-content/install-built-packages
+   test-content/propose-changes
 
 
 Indices and tables
