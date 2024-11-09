@@ -21,4 +21,4 @@ help:
 
 # Run a local server to serve the built HTML files
 run:
-	python -m http.server --directory _build/html
+	sphinx-autobuild "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
